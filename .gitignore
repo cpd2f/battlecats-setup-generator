@@ -1,0 +1,10 @@
+# Ignore Windows system folders
+AppData/
+*/AppData/
+*.tmp
+*.log
+*.bak
+*.swp
+Thumbs.db
+ehthumbs.db
+Desktop.ini
